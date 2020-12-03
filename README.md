@@ -17,7 +17,7 @@ text-align:right
 </head>
 
 <body>
-  <header id="osa" >
+  <header id="osa" onclick="FUNC1()" >
   Osama Sameer Kayed Bzour</header>
   <h1>Hi there, This is my website</h1>
   <p id="Os" > I have worked with web, I am A free-lancer web developer </p>
