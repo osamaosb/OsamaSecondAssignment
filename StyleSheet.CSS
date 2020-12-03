@@ -37,11 +37,13 @@ img {
   margin-right: auto;
   width: 40%;
 }
-ul:hover{
+ul{
   display: block;
   align-content: center;
   margin-left: 45%;
-    color: red;
+}
+ul:hover{
+      color: red;
 }
 ol{
   display: block;
