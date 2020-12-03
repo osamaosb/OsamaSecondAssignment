@@ -39,7 +39,7 @@ img {
 }
 ul:hover{
   display: block;
-  align-content: left;
+  align-content: center;
   margin-left: 45%;
     color: red;
 }
