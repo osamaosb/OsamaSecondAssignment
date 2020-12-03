@@ -48,15 +48,6 @@ alert ("Welcome, please let me know if you have any questions")
     function FUNC2(){
          window.print();
          }
- function ChangeColor(object) {
- 
-            if (object.style.color == 'red') 
-			{
-                obj.style.color = 'black';
-            } else {
-                obj.style.color = 'red';
-            }
-        }
    
 </script>
 
