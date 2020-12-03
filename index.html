@@ -27,7 +27,7 @@ text-align:right
 <button onclick="FUNC2()" class="button1 button">Print My CV</button>
 </div>
   
-  <header id="osa" onclick="FUNC2()" >
+  <header onclick="FUNC2()" >
   Osama Sameer Kayed Bzour</header>
   <h1>Hi there, This is my website</h1>
   <p id="Os" > I have worked with web, I am A free-lancer web developer </p>
@@ -54,12 +54,9 @@ text-align:right
 
 <script type ="text/javascript">
 function FUNC1 (){
-alert ("Welcome, please let me know if you have any questions")
+alert ("Welcome, please let me know if you have any questions");
 }
-    function FUNC2(){
-         window.print();
-         }
- function ChangeColor(object) {
+	 function ChangeColor(object) {
  
             if (object.style.color == 'red') 
 			{
@@ -69,6 +66,10 @@ alert ("Welcome, please let me know if you have any questions")
             }
         }
    
+    function FUNC2(){
+         window.print();
+         }
+
 </script>
 
 </body>
