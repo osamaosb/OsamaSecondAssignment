@@ -47,3 +47,6 @@ ol{
   align-content: left;
   margin-left: 45%;
 }
+p2:hover{
+    color: red;
+}
