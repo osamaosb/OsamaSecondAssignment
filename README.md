@@ -1,8 +1,19 @@
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
 <title>Osama Bzour</title>
 <link href="StyleSheet.CSS" rel="stylesheet">
+  <style>
+.button {
+  text-align: right;
+}
+
+
+#container {
+text-align:right
+}
+
+
+</style>
 </head>
 
 <body>
@@ -30,5 +41,24 @@
   <li>Fifth hobby</li>
 
 </ol>
+<script type ="text/javascript">
+function FUNC1 (){
+alert ("Welcome, please let me know if you have any questions")
+}
+    function FUNC2(){
+         window.print();
+         }
+ function ChangeColor(object) {
+ 
+            if (object.style.color == 'red') 
+			{
+                obj.style.color = 'black';
+            } else {
+                obj.style.color = 'red';
+            }
+        }
+   
+</script>
+
 
 </body>
